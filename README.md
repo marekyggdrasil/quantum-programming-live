@@ -9,3 +9,9 @@
 ### Quantum states
 
 Define few single-qubit and multi-qubit states. Calculate their overlaps and test their orthogonality. Automate your tests.
+
+### Quantum Operators
+
+### Simulation of measurements
+
+### Quantum Teleportation
