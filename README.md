@@ -2,7 +2,7 @@
 
 ## Episodes
 
-( here I will put the YouTube links )
+[🎙️ Quantum Programming LiveStream 🔴 Episode 1 🎬 Quantum States](https://youtu.be/F7vxR64R3Tw)
 
 ## Challenges
 
