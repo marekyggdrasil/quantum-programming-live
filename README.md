@@ -12,6 +12,8 @@ Define few single-qubit and multi-qubit states. Calculate their overlaps and tes
 
 ### Quantum Operators
 
+Define few single-qubit and multi-qubit quantum operators. Test if they act on the states as expected, including the case of their eigenstates. Automate your tests.
+
 ### Simulation of measurements
 
 ### Quantum Teleportation
