@@ -2,7 +2,8 @@
 
 ## Episodes
 
-[🎙️ Quantum Programming LiveStream 🔴 Episode 2 🎬 Quantum Operators](https://www.youtube.com/watch?v=y002ZDLagaQ)
+[🎙️ Quantum Programming LiveStream 🔴 Episode 2.5 🎬 Bald Sphere](https://youtu.be/gKWkENTb_P0)
+[🎙️ Quantum Programming LiveStream 🔴 Episode 2 🎬 Quantum Operators](https://youtu.be/y002ZDLagaQ)
 [🎙️ Quantum Programming LiveStream 🔴 Episode 1 🎬 Quantum States](https://youtu.be/F7vxR64R3Tw)
 
 ## Challenges
