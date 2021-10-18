@@ -26,6 +26,13 @@ def test_bra0ket0():
     # <0|0>
     assert ket0.overlap(ket0) == 1
 
+def test_fidelity_plus():
+    # |<0|+>|^2
+    p0 = np.abs(ket0.overlap(ketp))**2
+    # |<1|+>|^2
+    p1 = np.abs(ket1.overlap(ketp))**2
+    assert np.isclose([p0, p1], [0.5, 0.5]).all()
+
 def test_multiqubit():
     for (bq1, bq2, kq1, kq2) in itertools.product([0, 1], repeat=4):
         keta = tensor(basis(2, bq1), basis(2, bq2))
