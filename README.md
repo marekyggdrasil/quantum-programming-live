@@ -20,7 +20,7 @@ Define few single-qubit and multi-qubit quantum operators. Test if they act on t
 
 #### Quantum measurement
 
-Implement a Python function such that, given a quantum state and a number of samples N, would perform N measurements in the z-basis and return the count of how many times each of the outcome has been measured.
+Implement a Python function such that, given a quantum state, number of qubits N and a number of samples M, would perform M measurements in the z-basis and return the count of how many times each of the outcome has been measured.
 
 #### Coins challenge 1
 
