@@ -3,10 +3,10 @@
 ## Episodes
 
 
-[🎙️ Quantum Measurements 🔴 Episode 3 🎬 Quantum Programming LiveStream](https://youtu.be/O6ZZfGgGu7g)
-[🎙️ The Bald Sphere 🔴 Episode 2.5 🎬 Quantum Programming LiveStream](https://youtu.be/gKWkENTb_P0)
-[🎙️ Quantum Operators 🔴 Episode 2 🎬 Quantum Programming LiveStream](https://youtu.be/y002ZDLagaQ)
-[🎙️ Quantum States 🔴 Episode 1 🎬 Quantum Programming LiveStream](https://youtu.be/F7vxR64R3Tw)
+* [🎙️ Quantum Measurements 🔴 Episode 3 🎬 Quantum Programming LiveStream](https://youtu.be/O6ZZfGgGu7g)
+* [🎙️ The Bald Sphere 🔴 Episode 2.5 🎬 Quantum Programming LiveStream](https://youtu.be/gKWkENTb_P0)
+* [🎙️ Quantum Operators 🔴 Episode 2 🎬 Quantum Programming LiveStream](https://youtu.be/y002ZDLagaQ)
+* [🎙️ Quantum States 🔴 Episode 1 🎬 Quantum Programming LiveStream](https://youtu.be/F7vxR64R3Tw)
 
 ## Challenges
 
