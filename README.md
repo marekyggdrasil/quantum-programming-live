@@ -2,9 +2,11 @@
 
 ## Episodes
 
-[🎙️ Quantum Programming LiveStream 🔴 Episode 2.5 🎬 Bald Sphere](https://youtu.be/gKWkENTb_P0)
-[🎙️ Quantum Programming LiveStream 🔴 Episode 2 🎬 Quantum Operators](https://youtu.be/y002ZDLagaQ)
-[🎙️ Quantum Programming LiveStream 🔴 Episode 1 🎬 Quantum States](https://youtu.be/F7vxR64R3Tw)
+
+[🎙️ Quantum Measurements 🔴 Episode 3 🎬 Quantum Programming LiveStream](https://youtu.be/O6ZZfGgGu7g)
+[🎙️ The Bald Sphere 🔴 Episode 2.5 🎬 Quantum Programming LiveStream](https://youtu.be/gKWkENTb_P0)
+[🎙️ Quantum Operators 🔴 Episode 2 🎬 Quantum Programming LiveStream](https://youtu.be/y002ZDLagaQ)
+[🎙️ Quantum States 🔴 Episode 1 🎬 Quantum Programming LiveStream](https://youtu.be/F7vxR64R3Tw)
 
 ## Challenges
 
@@ -41,3 +43,5 @@ Two coins are placed heads on the table. We throw the first coin and if it lands
 #### Coins challenge 5
 
 Two coins are placed heads on the table. We throw the first coin and if it lands heads, we also throw the second coin. Program a quantum simulation of that scenario. Provide quantum circuit and histogram of counts of measurement outcomes.
+
+### Episode 4 - Quantum Teleportation
