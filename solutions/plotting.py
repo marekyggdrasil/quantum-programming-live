@@ -25,3 +25,42 @@ def histogram(unique, counts, N, nsamples=None, title=None, filename=None):
     ax.set_xticks(x)
     ax.set_xticklabels(labels)
     fig.savefig(filename, transparent=True)
+
+def nicebars(values, labels, maxval=None, axhline=None, axhline_text=None, title=None, filename=None):
+    fig, ax = plt.subplots(1, 1, constrained_layout=True)
+    ax.set_title(title)
+    ax.grid(zorder=0)
+    if maxval is not None:
+        ax.set_ylim([0, maxval])
+    width = 0.8
+    ax.bar(range(len(values)), values, width, zorder=3)
+    if axhline is not None:
+        ax.axhline(y=axhline, linestyle='--', color='black', zorder=4)
+        if axhline_text is not None:
+            plt.text(-0.75, axhline, axhline_text, fontsize=10, va='center', ha='center')
+    ax.set_xticks(range(len(values)))
+    ax.set_xticklabels(labels)
+    fig.savefig(filename, transparent=True)
+
+# from: https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
+def plotTeleportationOutcomes(outcomes, corrs, labels, title, filename=None):
+    x = np.arange(len(labels))  # the label locations
+    width = 0.35  # the width of the bars
+
+    fig, ax = plt.subplots(1, 1, constrained_layout=True)
+    rects1 = ax.bar(x - width/2, outcomes, width, label='not corrected')
+    rects2 = ax.bar(x + width/2, corrs, width, label='corrected')
+
+    # Add some text for labels, title and custom x-axis tick labels, etc.
+    ax.set_ylabel('fidelity')
+    ax.set_title(title)
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels)
+    ax.legend()
+
+    ax.bar_label(rects1, padding=3)
+    ax.bar_label(rects2, padding=3)
+
+    fig.tight_layout()
+    if filename is not None:
+        fig.savefig(filename, transparent=True)
