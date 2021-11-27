@@ -54,3 +54,15 @@ Some references:
 * [Why does teleportation work?](https://youtu.be/Vo4Nnvu6grg)
 * [Lecture about teleportation](https://www.youtube.com/watch?v=7ERL7CadrP4)
 * [Remote state preparation](https://www.youtube.com/watch?v=WMe8gB1mCno)
+
+### Episode 5 - Schrödinger equation
+
+#### Challenge 1
+
+Perform a time-evolution that would flip |0> into |1>. Plot the fidelities of eigenstates of Z-operator and magnitudes of the Hamiltonian operator terms. Do it once using square-shaped potential and once using Gaussian pulses.
+
+#### Challenge 2
+
+Repeat the coins challenge 4 using time-evolution.
+
+### Episode 6 - Quantum Adiabatic Computation

@@ -64,3 +64,26 @@ def plotTeleportationOutcomes(outcomes, corrs, labels, title, filename=None):
     fig.tight_layout()
     if filename is not None:
         fig.savefig(filename, transparent=True)
+
+def plotTimeEvolution(times, fidelities, potentials, title, marks=[], filename=None):
+    fig, axs = plt.subplots(2, 1, constrained_layout=True)
+
+    for mark in marks:
+        axs[0].axvline(x=mark, color='black', linestyle='--')
+        axs[1].axvline(x=mark, color='black', linestyle='--')
+
+    axs[0].set_title('Fidelities')
+    for fid, label in fidelities:
+        axs[0].plot(times, fid, label=label)
+    axs[0].grid()
+    axs[0].legend()
+
+    axs[1].set_title('Potentials')
+    for pot, label in potentials:
+        axs[1].plot(times, pot, label=label)
+    axs[1].grid()
+    axs[1].legend()
+
+    fig.tight_layout()
+    if filename is not None:
+        fig.savefig(filename, transparent=True)
