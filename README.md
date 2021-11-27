@@ -2,6 +2,7 @@
 
 ## Episodes
 
+* [🎙️ Schrödinger Equation 🔴 Episode 5 🎬 Quantum Programming LiveStream](https://youtu.be/wM0xT_rvLnc)
 * [🎙️ Quantum Teleportation 🔴 Episode 4 🎬 Quantum Programming LiveStream](https://youtu.be/4m1TG1qfzWw)
 * [🎙️ Quantum Measurements 🔴 Episode 3 🎬 Quantum Programming LiveStream](https://youtu.be/O6ZZfGgGu7g)
 * [🎙️ The Bald Sphere 🔴 Episode 2.5 🎬 Quantum Programming LiveStream](https://youtu.be/gKWkENTb_P0)
