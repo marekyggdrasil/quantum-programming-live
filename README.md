@@ -2,6 +2,7 @@
 
 ## Episodes
 
+* [🎙️ Quantum Adiabatic Computing 🔴 Episode 6 🎬 Quantum Programming LiveStream](https://youtu.be/Pj1pUrFTouk)
 * [🎙️ Schrödinger Equation 🔴 Episode 5 🎬 Quantum Programming LiveStream](https://youtu.be/wM0xT_rvLnc)
 * [🎙️ Quantum Teleportation 🔴 Episode 4 🎬 Quantum Programming LiveStream](https://youtu.be/4m1TG1qfzWw)
 * [🎙️ Quantum Measurements 🔴 Episode 3 🎬 Quantum Programming LiveStream](https://youtu.be/O6ZZfGgGu7g)
@@ -67,3 +68,5 @@ Perform a time-evolution that would flip |0> into |1>. Plot the fidelities of ei
 Repeat the coins challenge 4 using time-evolution.
 
 ### Episode 6 - Quantum Adiabatic Computation
+
+Simulate the adiabatic time evolution. Demonstrate how system energy varies with respect to exact energy depending on total adiabatic sweep time.
